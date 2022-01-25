@@ -6,7 +6,7 @@
 * **GitHub**: [vladislav-1507](https://github.com/vladislav-1507)
 * **Telegram**: [vladislav150789](https://t.me/vladislav150789)
 ## About Me
-I am 32 yaers old, i work as qa engeneer. But my goal is to gain knowledge in the field of front-end development.
+I am 32 yaers old, i work as QA engeneer. But my goal is to gain knowledge in the field of front-end development.
 ###### My strengths:
 * Quick leaner
 * Full immersion in the problem
