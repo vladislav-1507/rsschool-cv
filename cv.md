@@ -26,4 +26,9 @@ function multiply(a, b){
 return  a * b
 }
 ```
+## Education
+* Saratov State Univercity: Faculty of Physics
+## Languages
+* **Russian** - native
+* **English** - A2+
 
